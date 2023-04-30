@@ -1,0 +1,35 @@
+Function with arguments receive input at the time of calling or invoking function
+If function required input to perform some operation, we define function with arguments
+
+Python allows you to write function with 4 types of arguments
+1. Required arguments or required positional arguments
+2. Default arguments or optional arguments
+3. Variable length arguments
+4. Keyword arguments
+
+Arguments are local variables, which receive values at the time of calling
+function
+
+Required arguments or required positional arguments:
+
+Required arguments required values at time of calling/invoking function. 
+If values are not given for these arguments it generates syntax error.
+
+Syntax:
+def function-name(arg1,arg2,arg2,arg3,…):
+    statement-1
+    statement-2
+    statement-3
+
+
+
+
+
+
+
+
+
+
+
+
+
