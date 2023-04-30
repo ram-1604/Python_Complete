@@ -1,0 +1,74 @@
+Functions:
+
+Python multi paradigm programming language.
+Python support functional/procedural oriented programming.
+Functions are building blocks of procedural oriented programming/functional oriented programming.
+
+What is function?
+A function is small program within program.
+A function is self contained block which contain set of instructions.
+A function is named block, which contains set of instructions used to perform operation.
+
+Eg: Need of function: i want 
+
+***********************************
+Python
+***********************************
+programming
+***********************************
+
+for i in range(20):
+    print("*",end=")
+print()
+print("Python")
+for i in range(20):
+    print("*",end=")
+print()
+print("programming")
+for i in range(20):
+    print("*",end=")
+print()
+
+To avoid redeunance we will write the Functions and place the common code inside the function.
+
+Advantage of functions:
+Reusability: Functions allows to write code one time and use number of times
+Modularity: Dividing programming instructions according to their operations into small programs
+Simplicity : Easy to understand
+Efficient: Functions increase efficiency of the program by decrease size.
+
+Types of functions
+
+There are two types of functions
+1. Predefined functions
+2. User defined functions
+
+Predefined functions: are existing functions or the functions provided by python.
+Eg: print(),input(),max(),sum(),min(),len(),….
+
+Userdefined function: The functions developed by programmer are called user defined functions.
+
+Syntax of defining function:
+
+def function-name([arguments]):
+‘’’doc string’’’
+statement-1
+statement-2
+
+“def” keyword is used to write a function in python
+function-name is identifier/user defined word
+arguments variables which receive values/input
+a function is block, which must have at least one statement,
+in order to define function without any operation we can include “pass"
+
+We can define function in two ways
+1. Without arguments
+2. With arguments
+A function without arguments does not receive input/values
+A function with arguments receive values/input
+
+
+
+The memory for the function is called when function is invoked/called and
+de-allocated once the execution of function is completed
+In python functions are treated as objects
