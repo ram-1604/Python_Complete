@@ -1,0 +1,19 @@
+List:
+
+List is a sequence data type, where data is organized in sequential order.
+List is a mutable sequence. After creating list we can do changes (adding,
+updating and deleting).
+List is ordered collection, where insertion order is preserved.
+Lists are mutable sequences, typically used to store collections of
+homogeneous items (It also used for storing different types of objects)
+List is collection of objects.
+List allows duplicates
+List is index based collection
+
+How to create list?
+Lists may be constructed in several ways:
+ Using a pair of square brackets to denote the empty list: []
+ Using square brackets, separating items with commas: [a], [a, b, c]
+ Using a list comprehension: [x for x in iterable]
+ Using the type constructor: list() or list(iterable)
+
