@@ -45,13 +45,22 @@ return [expression/value]
 #     print(f'sum of {x} and {y} is {z}')
 # main()
 
+ 
+# def num_sort(num):
+#     for i in range(len(num)):
+#         for j in range(0,len(num)-1):
+#             if num[j]>num[j+1]:
+#                 num[j],num[j+1]=num[j+1],num[j]    
+# def main():
+#     list1=[3,5,4,6,9,2,1,7]
+#     print(f'before sort list is {list1}')
+#     num_sort(list1)
+#     print(f'after sorting list is {list1}')
 
-    
 
+# main()
 
-
-
-
+#default args or optonal args
 
 
 
