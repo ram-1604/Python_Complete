@@ -1,0 +1,21 @@
+What is operator?
+
+Operator is a special symbol, which is used to perform some operations.
+Based on operands on which it perform operation the operators are
+classified into 3 categories
+1. Unary operators : uses one operand to perform operation
+2. Binary operators : uses two operands to perform operation
+3. Ternary operator : uses three operands to perform operation
+
+
+Types of operators:
+
+1. Arithmetic operators
+2. Relational operators
+3. Logical operators
+4. Assignment operators
+5. Bitwise operators
+6. Conditional operator
+7. Identity operator
+8. Membership operator
+9. Walrus operator (Python 3.8)
