@@ -9,5 +9,5 @@ This error  must be rectified by programmer in order to execute program
 
 Run time Error's: The Errors whhich occur during the execution of program are called runtime error. This error are also called logical error. These error are occurred because of worng   
 
-
+These errors occur because of wrong input given by end user or input given by end user does not satisfy condition given within program. When there is runtime error, program execution is terminated. To avoid abnormal termination of program we use exception handlers or error handlers.
 
