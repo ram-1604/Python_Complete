@@ -1,0 +1,13 @@
+There are two type of error's
+    1. Complile time Error's and this also called sysntac error's
+    2. Run time Error's
+
+Complile time Error's: The Error which occur during compiling of programs are called 
+Complile time error. These Compile time errors are also called syntax error.
+if there is syntax error in the program, program not executed.
+This error  must be rectified by programmer in order to execute program
+
+Run time Error's: The Errors whhich occur during the execution of program are called runtime error. This error are also called logical error. These error are occurred because of worng   
+
+
+
